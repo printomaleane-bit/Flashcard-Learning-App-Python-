@@ -20,3 +20,7 @@ Make sure Python is installed.
 Run:
 ```bash
 python main.py
+
+```
+## Purpose
+Built as part of academic coursework to demonstrate GUI development and Python fundamentals.
